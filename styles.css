@@ -1,0 +1,56 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: linear-gradient(to right, rgba(51, 207, 255, 0.5), rgba(13, 137, 168, 1));
+}
+
+
+.banner {
+    background: rgb(63, 60, 60);
+    height: 90px;
+    
+
+}
+.maintext {
+    text-align: center;
+
+}
+
+
+
+.navbar {
+    display: flex;             /* Align logo and links horizontally */
+    justify-content: space-between; /* Logo on left, links on right */
+    align-items: center;       /* Vertically center items */
+    background-color: whitesmoke;
+    padding: 10px 20px;
+}
+
+.logo {
+    height: 40px; /* Adjust the height of your logo */
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-menu li + li {
+    margin-left: 15px; /* Space between links */
+}
+
+.nav-menu li a {
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+    transition: background 0.3s;
+}
+
+.nav-menu li a:hover {
+    background-color: #555;
+}
+
