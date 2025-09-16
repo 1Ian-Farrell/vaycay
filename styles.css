@@ -3,7 +3,7 @@ body, html {
     padding: 0;
 }
 body {
-    background: linear-gradient(to right, rgba(51, 207, 255, 0.5), rgba(117, 225, 255, 1));
+    background: linear-gradient(to right, rgba(51, 207, 255, 0.5), rgba(13, 137, 168, 1));
 }
 
 
@@ -53,4 +53,5 @@ body {
 .nav-menu li a:hover {
     background-color: #555;
 }
+
 
