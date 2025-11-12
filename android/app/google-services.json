@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894050703795",
+    "project_id": "vaycayauth",
+    "storage_bucket": "vaycayauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894050703795:android:94b828117a67d016bed3c6",
+        "android_client_info": {
+          "package_name": "com.example.vaycay_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_u3BHG8S3rQm3mTvOsF-cScFw7THzzGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
